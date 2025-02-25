@@ -6,7 +6,7 @@
   - GRC Projects
 
   <h2>IT Blog </h2>
-  -https://localitneighborhood.blogspot.com/
+  -(https://neighborhooditprofessional.blogspot.com/)
  
 
 <h2>📺 Popular YouTube Videos</h2>
