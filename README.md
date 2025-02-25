@@ -18,7 +18,7 @@ I am actively pursuing the CISSP certification to further strengthen my proficie
 
 ✔ Linux & Active Directory Administration
 
-✔ Cloud Security & Enterprise IT Security
+✔ Cloud Security & IT Security
 
 Attached above are my individual Information Security & GRC policies, which reflect my expertise in developing and implementing governance frameworks to strengthen security postures.
 
